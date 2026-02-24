@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "シンフォニック ラブ",
+  "base_artist": "Miyuki Hashimoto",
+  "createdAt": "2026-02-24T13:46:09.005098Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "シンフォニック?ラブ",
+      "artist": "橋本みゆき",
+      "has_synced": true,
+      "path": "select/01_シンフォニック_ラブ_橋本みゆき.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "シンフォニック・ラブ",
+      "artist": "橋本みゆき",
+      "has_synced": true,
+      "path": "select/02_シンフォニック・ラブ_橋本みゆき.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "シンフォニック・ラブ",
+      "artist": "橋本みゆき",
+      "has_synced": true,
+      "path": "select/03_シンフォニック・ラブ_橋本みゆき.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "シンフォニック・ラブ (Melodies Overflowed mix)",
+      "artist": "橋本みゆき",
+      "has_synced": false,
+      "path": "select/04_シンフォニック・ラブ_(Melodies_Overflowed_mix)_橋本みゆき.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "シンフォニック ラブ",
+      "artist": "Miyuki Hashimoto",
+      "has_synced": false,
+      "path": "select/pl_01_シンフォニック_ラブ_Miyuki_Hashimoto.txt"
+    }
+  ]
+}
